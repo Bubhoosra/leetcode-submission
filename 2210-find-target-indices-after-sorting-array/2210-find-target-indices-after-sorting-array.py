@@ -15,7 +15,7 @@ class Solution:
                 j=mid-1
             else:
                 i=mid+1
-        i=left
+        i=0
         j=n-1
 
         while(i<=j):
